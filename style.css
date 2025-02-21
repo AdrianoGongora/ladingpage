@@ -1,5 +1,6 @@
 * {
-    background-color: black;
+    background-color: #03045E;
+    color: #CAF0F8;
 }
 
 h1,
@@ -7,6 +8,25 @@ h2,
 h3 {
     color: beige;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.header{
+    background-color: beige;
+    border-radius: 5px;
+}
+
+.body{
+    background-color: bisque;
+    border-radius: 5px;
+}
+
+.footer{
+    background-color: grey;
+    border-radius: 5px;
+}
+
+.title{
+    text-align: center;
 }
 
 .tec-container {
